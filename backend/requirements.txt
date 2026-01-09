@@ -1,0 +1,22 @@
+# Core Flask and Web Framework
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Image Processing and OCR
+pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+
+# AI/ML Dependencies  
+transformers>=4.43.2
+onnxruntime>=1.18.1
+tokenizers>=0.19.1
+huggingface-hub>=0.30.0
+openai>=1.0.0
+
+# Manim Animation Engine
+manim>=0.17.0
+
+# Utility Libraries
+requests>=2.31.0
+python-dotenv>=1.0.0
