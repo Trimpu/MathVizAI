@@ -12,18 +12,18 @@
 
 **A powerful web application that combines OCR (Optical Character Recognition) with Manim (Mathematical Animation Engine) to automatically generate educational math videos from handwritten or typed mathematical expressions.**
 
-[🚀 Demo](#-demo) • [✨ Features](#-features) • [📦 Installation](#-installation) • [🎯 Usage](#-usage) • [📖 API](#-api-reference)
+[ Demo](#-demo) • [ Features](#-features) • [ Installation](#-installation) • [ Usage](#-usage) • [ API](#-api-reference)
 
 </div>
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 <!-- Add your demo GIF or video here -->
 <div align="center">
   
-> 🎬 **Demo coming soon!** We're preparing video demonstrations of MathVizAI in action.
+>  **Demo coming soon!** We're preparing video demonstrations of MathVizAI in action.
 
 <!-- Uncomment and replace with actual demo when available:
 ![MathVizAI Demo](assets/demo.gif)
@@ -71,22 +71,22 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 <div align="center">
 
 | Feature | Description |
 |---------|-------------|
-| 🔍 **Advanced OCR** | MixTeX ONNX model for accurate LaTeX extraction from images |
-| 🎬 **AI Video Generation** | GPT-4 powered Manim animations for mathematical concepts |
-| 📄 **PDF Support** | High-quality PDF rendering with intelligent text selection |
-| 🎨 **Modern UI** | Windscribe-inspired dark theme with glassmorphism effects |
-| ⚡ **Real-time Progress** | Live tracking of video generation with detailed status |
-| 🔄 **Smart Fallbacks** | Robust error handling with automatic recovery |
+|  **Advanced OCR** | MixTeX ONNX model for accurate LaTeX extraction from images |
+|  **AI Video Generation** | GPT-4 powered Manim animations for mathematical concepts |
+|  **PDF Support** | High-quality PDF rendering with intelligent text selection |
+|  **Modern UI** | Windscribe-inspired dark theme with glassmorphism effects |
+|  **Real-time Progress** | Live tracking of video generation with detailed status |
+|  **Smart Fallbacks** | Robust error handling with automatic recovery |
 
 </div>
 
-### 🖥️ Frontend (React + TailwindCSS)
+###  Frontend (React + TailwindCSS)
 - **PDF Viewing** - High-quality rendering with react-pdf
 - **OCR Selection** - Drag-to-select regions for mathematical content extraction
 - **Floating UI** - Dynamic buttons appear on text selection
@@ -94,7 +94,7 @@
 - **Loading States** - Comprehensive progress tracking with real-time updates
 - **Dark Theme** - Beautiful purple-gradient Windscribe-inspired design
 
-### ⚙️ Backend (Flask + Manim + AI)
+###  Backend (Flask + Manim + AI)
 - **AI Integration** - OpenAI GPT-4 and GitHub AI Models
 - **Video Generation** - Manim-powered mathematical animations
 - **OCR Processing** - MixTeX model for LaTeX extraction
@@ -133,7 +133,7 @@ MathVizAI/
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -183,25 +183,25 @@ npm start
 
 ---
 
-## 🎯 Usage
+##  Usage
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[📄 Load PDF] --> B[🔍 Select Math]
-    B --> C[🎬 Generate Video]
-    C --> D[⏳ Wait for Processing]
-    D --> E[🎉 Watch Animation]
+    A[ Load PDF] --> B[🔍 Select Math]
+    B --> C[ Generate Video]
+    C --> D[ Wait for Processing]
+    D --> E[ Watch Animation]
 ```
 
 </div>
 
-1. **📄 Load PDF** - Upload a mathematical PDF document
-2. **🔍 Select Content** - Use OCR mode to select mathematical expressions
-3. **⚙️ Configure** - Choose difficulty level and video quality
-4. **🎬 Generate** - Click "Visualize" to create the animation
-5. **🎉 Watch & Learn** - View the generated mathematical animation
+1. ** Load PDF** - Upload a mathematical PDF document
+2. ** Select Content** - Use OCR mode to select mathematical expressions
+3. ** Configure** - Choose difficulty level and video quality
+4. ** Generate** - Click "Visualize" to create the animation
+5. ** Watch & Learn** - View the generated mathematical animation
 
 ### Video Quality Options
 
@@ -213,13 +213,13 @@ graph LR
 
 ### Difficulty Levels
 
-- **🌱 Beginner** - Basic explanations with simple animations
-- **📚 Intermediate** - Moderate complexity with detailed steps
-- **🎓 Advanced** - Complex concepts with full derivations
+- ** Beginner** - Basic explanations with simple animations
+- ** Intermediate** - Moderate complexity with detailed steps
+- ** Advanced** - Complex concepts with full derivations
 
 ---
 
-## 📖 API Reference
+##  API Reference
 
 ### Endpoints
 
@@ -279,31 +279,31 @@ npm run build
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💻 Make your changes
-4. ✅ Add tests if applicable
-5. 📝 Commit your changes (`git commit -m 'Add amazing feature'`)
-6. 📤 Push to the branch (`git push origin feature/amazing-feature`)
-7. 🔃 Open a Pull Request
+1.  Fork the repository
+2.  Create a feature branch (`git checkout -b feature/amazing-feature`)
+3.  Make your changes
+4.  Add tests if applicable
+5.  Commit your changes (`git commit -m 'Add amazing feature'`)
+6.  Push to the branch (`git push origin feature/amazing-feature`)
+7.  Open a Pull Request
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Manim Community](https://www.manim.community/) for the amazing animation engine
-- [OpenAI](https://openai.com/) for GPT-4 API
-- [MixTeX](https://github.com/RapidAI/RapidLaTeXOCR) for the OCR model
+- [OpenAI](https://openai.com/) for GPT-4 API (via github marketplace)
+- [MixTeX](https://github.com/RQLuo/MixTeX-Latex-OCR) for the OCR model 😇🙏
 - [Windscribe](https://windscribe.com/) for UI design inspiration
 
 ---
