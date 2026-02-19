@@ -12,7 +12,7 @@
 
 **A powerful web application that combines OCR (Optical Character Recognition) with Manim (Mathematical Animation Engine) to automatically generate educational math videos from handwritten or typed mathematical expressions.**
 
-[ Demo](#-demo) • [ Features](#-features) • [ Installation](#-installation) • [ Usage](#-usage) • [ API](#-api-reference)
+[ Demo](#-demo) • [ Features](#-features) • [ Installation]([#-installation](https://github.com/Trimpu/MathVizAI?tab=readme-ov-file#installation)) • [ Usage](#-usage) • [ API](#-api-reference)
 
 </div>
 
