@@ -17,23 +17,7 @@
 
 ---
 
-##  Demo
-
-<!-- Add your demo GIF or video here -->
-<div align="center">
-  
->  **Demo coming soon!** We're preparing video demonstrations of MathVizAI in action.
-
-<!-- Uncomment and replace with actual demo when available:
-![MathVizAI Demo](assets/demo.gif)
-
-### Watch the Full Demo
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtube.com/your-demo-link)
--->
-
-</div>
-
-### Screenshots
+## Screenshots
 
 <div align="center">
 <table>
@@ -43,12 +27,10 @@
 </tr>
 <tr>
 <td>
-<!-- Add screenshot: <img src="assets/screenshots/pdf-viewer.png" width="400" /> -->
-<em>Screenshot coming soon</em>
+<img src="assets/screenshots/pdf-viewer.PNG" width="400" alt="PDF viewer with OCR" />
 </td>
 <td>
-<!-- Add screenshot: <img src="assets/screenshots/video-gen.png" width="400" /> -->
-<em>Screenshot coming soon</em>
+<img src="assets/screenshots/video-gen.PNG" width="400" alt="Video generation process" />
 </td>
 </tr>
 <tr>
@@ -57,18 +39,24 @@
 </tr>
 <tr>
 <td>
-<!-- Add screenshot: <img src="assets/screenshots/ocr-mode.png" width="400" /> -->
-<em>Screenshot coming soon</em>
+<img src="assets/screenshots/ocr-mode.PNG" width="400" alt="OCR selection mode" />
 </td>
 <td>
-<!-- Add screenshot: <img src="assets/screenshots/animation.png" width="400" /> -->
-<em>Screenshot coming soon</em>
+<img src="assets/screenshots/animation.PNG" width="400" alt="Generated animation example" />
 </td>
 </tr>
 </table>
 </div>
 
 ---
+
+## Demo
+
+<div align="center">
+
+![MathVizAI Demo](assets/demo.gif)
+
+</div>
 
 ##  Features
 
